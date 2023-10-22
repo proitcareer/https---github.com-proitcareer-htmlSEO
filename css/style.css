@@ -31,7 +31,7 @@ header {
 
     background-image: url(/images/background_color.jpg);
     background-size: cover;
-    height: 20vw;
+    height: 18vw;
     text-align: center;
     color: aliceblue;
 }
@@ -82,7 +82,7 @@ header {
 
 
 aside {
-    height: 50vw;
+    height: 40vw;
     float: left;
     width: 30%;
 
@@ -97,7 +97,7 @@ aside {
 
 section {
     float: left;
-    height: 50vw;
+    height: 40vw;
 
 
     width: 70%;
