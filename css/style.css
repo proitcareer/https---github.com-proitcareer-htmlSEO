@@ -111,8 +111,7 @@ section {
 @media (max-width: 600px) {
 
     aside,
-    section,
-    footer {
+    section {
         width: 100%;
         height: auto;
     }
@@ -126,6 +125,15 @@ section {
         display: block;
         text-align: left;
     }
+    
+
+  footer {
+
+    margin-bottom: 0px;
+    position: static;
+    height: auto;
+    width: 100%;
+}
 
 }
 
