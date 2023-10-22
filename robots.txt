@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://nikyarfirst.onlinewebshop.net/sitemap.xml
