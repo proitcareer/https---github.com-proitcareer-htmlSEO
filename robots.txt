@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://nikyarfirst.onlinewebshop.net/sitemap.xml
+Sitemap: https://htmlseo.onrender.com/sitemap.xml
